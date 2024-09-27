@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "CLOSING CEREMONY OF ARTEFAC UNS 2024",
+      "date": "2024-09-30", 
+      "location": "Solo", 
+      "organizer": "Artefac UNS", 
+      "harga": 250000,
+      "is_ready": true,
+      "image": "konser-cinta-istimewa.png"
+    },
+    {
+      "id": "2",
+      "title": "CLOSING CEREMONY OF ARTEFAC UNS 2024",
+      "date": "2024-09-30",
+      "location": "Solo",
+      "organizer": "Artefac UNS",
+      "harga": 250000,
+      "is_ready": true,
+      "image": "konser-cinta-istimewa.png"
+    }
+  ]
+}
