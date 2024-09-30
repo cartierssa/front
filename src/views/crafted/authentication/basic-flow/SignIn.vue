@@ -218,7 +218,7 @@ export default defineComponent({
           },
         }).then(() => {
           // Go to page after successfully login
-          router.push({ name: "dashboard" });
+          router.push({ name: "home" });
         });
       } else {
         Swal.fire({

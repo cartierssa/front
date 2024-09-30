@@ -19,6 +19,9 @@ const routes: Array<RouteRecordRaw> = [
         path: "/home",
         name: "home",
         component: () => import("@/views/Dashboard.vue"),
+        meta: {
+          pageTitle: "Home", // Menambahkan page title untuk halaman Home
+        },
        
       },
       {
